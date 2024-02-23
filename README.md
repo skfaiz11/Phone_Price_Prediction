@@ -6,12 +6,12 @@ There is a new mobile company and the CEO wants to give a tough fight to big com
 ### Problem Statement:
 Predict a price range, indicating how high the price is, using different Machine Learning algorithms.
 
-#### Scope:
+### Scope:
 ● Prepare and analyse data, treat outliers and missing values
 
 ● Check the distribution of key numerical variables, eda 
 
 ● Building different Machine Learning models, hyperparameter tuning
 
-##### Learning Outcome:
+### Learning Outcome:
 The students will get a better understanding of how the variables are linked to each other and how the EDA approach will help them gain more insights and knowledge about the data that we have
